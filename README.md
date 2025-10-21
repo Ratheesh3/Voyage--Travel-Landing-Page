@@ -29,6 +29,12 @@ travel-landing/
 
 ├── services.html
 
+├── destination-bali.html
+
+├── destination-kyoto.html
+
+├── destination-swiss.html
+
 │
 
 ├── css/
