@@ -17,50 +17,6 @@ A modern, responsive travel landing page built with **HTML, CSS, JavaScript, and
 
 ---
 
-## 🗂️ Project Structure
-
-travel-landing/
-
-│
-
-├── index.html
-
-├── about.html
-
-├── services.html
-
-├── destination-bali.html
-
-├── destination-kyoto.html
-
-├── destination-swiss.html
-
-│
-
-├── css/
-
-│ └── styles.css
-
-│
-
-├── js/
-
-│ └── script.js
-
-│
-
-└── assets/
-
-├── hero.jpg
-
-├── img1.jpg
-
-├── img2.jpg
-
-├── img3.jpg
-
----
-
 ## 🚀 Getting Started
 
 1. Clone the repository
